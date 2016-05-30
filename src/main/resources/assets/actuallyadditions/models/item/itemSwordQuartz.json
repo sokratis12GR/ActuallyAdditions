@@ -1,5 +1,5 @@
 {
-  "parent": "actuallyadditions:item/standardItem",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "actuallyadditions:items/itemSwordQuartz"
   }
